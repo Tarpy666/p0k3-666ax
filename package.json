@@ -1,0 +1,16 @@
+{
+  "name": "p0k3-666ax",
+  "version": "0.1.0",
+  "description": "P0K3-666AX — clean-room creature-collection core (deterministic).",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.0",
+    "vitest": "^2.0.0"
+  },
+  "license": "MIT"
+}
